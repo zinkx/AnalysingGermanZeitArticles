@@ -1,5 +1,5 @@
 This is a little research project I did a while ago :)\
-I try to analyse how the German language has changed over time, by analysing newspaper headlines from 'die Zeit' from 1946 until 2021, available at linkhere\
+I try to analyse how the German language has changed over time, by analysing newspaper headlines from 'die Zeit' from 1946 until 2021, available at https://developer.zeit.de/\
 I primarily focus on the perception of women in society.
 
 I first gathered all availabe data from the Zeit API in *Data_collection.ipynb* and split the data in different epochs marked by historical events:
